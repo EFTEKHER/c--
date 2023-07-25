@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.scss": "sass",
+        "*.js": "javascript",
+        "random": "cpp"
+    }
+}

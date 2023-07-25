@@ -1,0 +1,1 @@
+{"name":"Local: 7_problem","url":"e:\\React-web-3-mantra\\c++\\3_c++_basics\\7_problem.cpp","tests":[{"id":1689244637411,"input":"4\n10 20 30\n23 51 17\n44 21 23\n30 30 30","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\React-web-3-mantra\\c++\\3_c++_basics\\7_problem.cpp","group":"local","local":true}
