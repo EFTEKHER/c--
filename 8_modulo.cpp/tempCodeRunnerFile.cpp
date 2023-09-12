@@ -1,0 +1,1 @@
+ fact=((fact%M)*(i%M)*M);

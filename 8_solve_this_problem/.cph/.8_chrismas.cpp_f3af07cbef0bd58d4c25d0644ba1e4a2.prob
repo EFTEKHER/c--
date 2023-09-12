@@ -1,0 +1,1 @@
+{"name":"Local: 8_chrismas","url":"e:\\React-web-3-mantra\\c++\\8_solve_this_problem\\8_chrismas.cpp","tests":[{"id":1692779787959,"input":"2\n3\n5","output":"1 \n1 1 \n1 2 1 \n1 \n1 1 \n1 2 1 \n1 3 3 1 \n1 4 6 4 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\React-web-3-mantra\\c++\\8_solve_this_problem\\8_chrismas.cpp","group":"local","local":true}
